@@ -1,0 +1,9 @@
+{
+  "name": "leaveflow",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Leave management and leave request software",
+  "scripts": {
+    "preview": "node server.js"
+  }
+}
